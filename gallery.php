@@ -1,5 +1,5 @@
 <?php
-    $title = "518 Roofing | About us";
+    $title = "518 Roofing | Gallery";
 ?>
 
 <!DOCTYPE html>
@@ -86,6 +86,14 @@
     <!-- Full Screen Search End -->
 
     <div class="container">
+    <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+        <h5 id="top-contact" class="fw-bold text-primary text-uppercase" style="margin-top: 100px;">Gallery</h5>
+        <h1 class="mb-0">Explore our gallery of examples of our work in 518 roofings.</h1>
+    </div>
+    <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+        <h2 class="mb-0">Images</h2>
+    </div>
+ 
   <div class="row">
     <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
       <img src="img/business/img1.jpg" class="img-fluid rounded" onclick="openFullImage(this.src)" alt="">
@@ -133,6 +141,17 @@
     </div>
   </div>
 </div>
+
+    <div class="section-title text-center position-relative pb-3 mb-5 mt-2 mx-auto" style="max-width: 600px;">
+        <h2 class="mb-0">Videos</h2>
+    </div>
+
+    <div class="row justify-content-center rounded">
+        <div class="col-lg-6 row justify-content-center">
+            <iframe class="rounded" width="451" height="801" src="https://www.youtube.com/embed/a6EDKxYso38" title="518 Roofing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+    </div>
+ 
 
     <div class="imgFull" id="fullbox">
         <img src="main.png" id="fullImg">
