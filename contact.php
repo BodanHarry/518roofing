@@ -1,6 +1,5 @@
 <?php
 $title = "518 Roofing | Contact";
-include 'translate.php';
 $email = isset($_POST["email"]);
 ?>
 

@@ -1,6 +1,5 @@
 <?php 
     $title = "518 Roofing | Home of your Trusted Roofing Service in New York";
-    include 'translate.php';
 ?>
 
 <!DOCTYPE html>
