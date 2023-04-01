@@ -1,5 +1,6 @@
 <?php
     $title = "518 Roofing | Services";
+    include 'translate.php';
 ?>
 
 <!DOCTYPE html>
