@@ -33,6 +33,7 @@
                 <div class="navbar-nav ms-auto py-0">
                     <a href="index.php" class="nav-item nav-link <?php if(str_contains($title,'Home')) echo "active"?>">Home</a>
                     <a href="about.php" class="nav-item nav-link <?php if(str_contains($title,'About')) echo "active"?>">About</a>
+                    <a href="service.php" class="nav-item nav-link <?php if(str_contains($title,'Services')) echo "active"?>">Services</a>
                     <a href="gallery.php" class="nav-item nav-link <?php if(str_contains($title,'Gallery')) echo "active"?>">Gallery</a>
                     <a href="contact.php" class="nav-item nav-link <?php if(str_contains($title,'Contact')) echo "active"?>">Contact</a>
 </div>
