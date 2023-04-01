@@ -384,7 +384,7 @@
     <!-- Quote End -->
 
     <?php
-        include 'partials/bottom.php'
+        include 'partials/down.php';
     ?>
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>

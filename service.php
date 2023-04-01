@@ -182,7 +182,7 @@
     <script src="js/addons.js"></script>
 
     <?php
-        include 'partials/bottom.php';
+        include 'partials/down.php';
     ?>
 </body>
 

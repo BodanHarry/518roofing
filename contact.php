@@ -157,7 +157,7 @@ $email = isset($_POST["email"]);
     <!-- Contact End -->
     
     <?php
-        include 'partials/bottom.php';
+        include 'partials/down.php';
     ?>
 
     <!-- JavaScript Libraries -->
