@@ -10,9 +10,6 @@
     <?php
         include 'partials/metadata.php'
     ?>
-    <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
-
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -54,7 +51,7 @@
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase mb-3 animated slideInDown">Roofing Solutions</h5>
                             <h1 class="display-1 text-white mb-md-4 animated zoomIn">Residential & Commercial</h1>
-                            <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
+                            <a href="contact.php#top-contact" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
                             <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                         </div>
                     </div>
@@ -65,7 +62,7 @@
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase mb-3 animated slideInDown">Roofing Solutions</h5>
                             <h1 class="display-1 text-white mb-md-4 animated zoomIn">Creative & Innovative Solutions</h1>
-                            <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
+                            <a href="quote.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
                             <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                         </div>
                     </div>
@@ -255,6 +252,9 @@
                         </div>
                         <h4 class="mb-3">Vision</h4>
                         <p class="m-0">Our goal is to be the best roofing service in 518 by offering reliable, cost-effective solutions with excellent service and quality work.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
@@ -264,6 +264,9 @@
                         </div>
                         <h4 class="mb-3">Mission</h4>
                         <p class="m-0">Our mission is to provide top-quality roofing services in 518 with fair pricing, great customer service, and exceptional workmanship that builds lasting relationships with our clients.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">

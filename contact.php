@@ -51,13 +51,10 @@ $email = isset($_POST["email"]);
         include 'partials/top.php'
     ?>
 
-        <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
+        <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 0px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
                     <h1 class="display-4 text-white animated zoomIn">Contact Us</h1>
-                    <a href="" class="h5 text-white">Home</a>
-                    <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Contact</a>
                 </div>
             </div>
         </div>
@@ -88,7 +85,7 @@ $email = isset($_POST["email"]);
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
-                <h5 id="top-contact" class="fw-bold text-primary text-uppercase">Contact Us</h5>
+                <h5 id="top-contact" class="fw-bold text-primary text-uppercase" style="margin-top: 100px;">Contact Us</h5>
                 <h1 class="mb-0">If You Have Any Query, Feel Free To Contact Us</h1>
             </div>
             <div class="row g-5 mb-5">
@@ -161,27 +158,6 @@ $email = isset($_POST["email"]);
         </div>
     </div>
     <!-- Contact End -->
-
-
-    <!-- Vendor Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container py-5 mb-5">
-            <div class="bg-white">
-                <div class="owl-carousel vendor-carousel">
-                    <img src="img/vendor-1.jpg" alt="">
-                    <img src="img/vendor-2.jpg" alt="">
-                    <img src="img/vendor-3.jpg" alt="">
-                    <img src="img/vendor-4.jpg" alt="">
-                    <img src="img/vendor-5.jpg" alt="">
-                    <img src="img/vendor-6.jpg" alt="">
-                    <img src="img/vendor-7.jpg" alt="">
-                    <img src="img/vendor-8.jpg" alt="">
-                    <img src="img/vendor-9.jpg" alt="">
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Vendor End -->
     
     <?php
         include 'partials/bottom.php';
