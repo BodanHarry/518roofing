@@ -1,5 +1,5 @@
 <?php 
-    $title = "518 Roofing | Your Trusted Roofing Service in New York";
+    $title = "518 Roofing | Home of your Trusted Roofing Service in New York";
     //include('translate.php');
 ?>
 <!DOCTYPE html>
@@ -359,19 +359,22 @@
                         <form action= "mail.php" method="POST">
                             <div class="row g-3">
                                 <div class="col-xl-12">
-                                    <input type="text" class="form-control bg-light border-0" placeholder="Your Name" style="height: 55px;">
+                                    <input type="text" name="name" class="form-control bg-light border-0" placeholder="Your Name" style="height: 55px;">
                                 </div>
                                 <div class="col-12">
-                                    <input type="email" class="form-control bg-light border-0" placeholder="Your Email" style="height: 55px;">
+                                    <input type="email" name="email" class="form-control bg-light border-0" placeholder="Your Email" style="height: 55px;">
                                 </div>
                                 <div class="col-12">
-                                    <input type="text" class="form-control bg-light border-0" placeholder="Your Subject" style="height: 55px;">
+                                    <input type="text" name="subject" class="form-control bg-light border-0" placeholder="Your Subject" style="height: 55px;">
                                 </div>
                                 <div class="col-12">
-                                    <textarea class="form-control bg-light border-0" rows="3" placeholder="Message"></textarea>
+                                    <input type="text" name="phone" class="form-control bg-light border-0" placeholder="Your Phone" style="height: 55px;">
                                 </div>
                                 <div class="col-12">
-                                    <button class="btn btn-dark w-100 py-3" type="submit">Request A Quote</button>
+                                    <textarea name="message" class="form-control bg-light border-0" rows="3" placeholder="Message"></textarea>
+                                </div>
+                                <div class="col-12">
+                                    <button class="btn btn-dark w-100 py-3" name="message" type="submit">Request A Quote</button>
                                 </div>
                             </div>
                         </form>

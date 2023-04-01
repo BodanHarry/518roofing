@@ -119,7 +119,7 @@
             <div class="row g-5">
             <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.1s" src="img/page/1.jpg" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100 rounded-lg wow zoomIn" data-wow-delay="0.1s" src="img/page/1.jpg" style="object-fit: cover;">
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -137,7 +137,7 @@
             <div class="row g-5">
             <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.1s" src="img/page/1.jpg" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100 rounded-lg wow zoomIn" data-wow-delay="0.1s" src="img/business/img7.jpg" style="object-fit: cover;">
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -156,7 +156,7 @@
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
             <h5 class="fw-bold text-primary text-uppercase">Our Team</h5>
-<h1 class="mb-0">Experienced Professionals Ready to Help with Your Roofing Needs</h1> 
+            <h1 class="mb-0">Experienced Professionals Ready to Help with Your Roofing Needs</h1> 
             </div>
             <div class="row g-5 justify-content-center">
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
@@ -173,11 +173,11 @@
             </div>
         </div>
     </div>
+</div>
+</div>
     <!-- Team End -->
     
-    <?php
-        include 'partials/bottom.php';
-    ?>
+
 
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
@@ -191,6 +191,9 @@
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
     <script src="js/addons.js"></script>
+    <?php
+        include 'partials/bottom.php';
+    ?>
 </body>
 
 </html>

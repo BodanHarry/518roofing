@@ -20,7 +20,7 @@
         </div>
     </div>
 
-        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
+        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0" id="top-panel">
             <a href="index.php" class="navbar-brand p-0">
                 <h1 class="m-0">
                     <img src="img/svg/roofing.svg" id="title-img">
@@ -31,11 +31,11 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
-                    <a href="index.php" class="nav-item nav-link active">Home</a>
-                    <a href="about.php" class="nav-item nav-link">About</a>
-                    <a href="service.php" class="nav-item nav-link">Services</a>
-                    <a href="gallery.php" class="nav-item nav-link">Gallery</a>
-                    <a href="contact.php" class="nav-item nav-link">Contact</a>
+                    <a href="index.php" class="nav-item nav-link <?php if(str_contains($title,'Home')) echo "active"?>">Home</a>
+                    <a href="about.php" class="nav-item nav-link <?php if(str_contains($title,'About')) echo "active"?>">About</a>
+                    <a href="service.php" class="nav-item nav-link <?php if(str_contains($title,'Services')) echo "active"?>">Services</a>
+                    <a href="gallery.php" class="nav-item nav-link <?php if(str_contains($title,'Gallery')) echo "active"?>">Gallery</a>
+                    <a href="contact.php" class="nav-item nav-link <?php if(str_contains($title,'Contact')) echo "active"?>">Contact</a>
 </div>
                 <a href="contact.php" class="btn btn-primary py-2 px-4 ms-3">Free estimates</a>
             </div>
