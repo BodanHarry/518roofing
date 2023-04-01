@@ -1,6 +1,10 @@
  <?php?>
  <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top"><i class="bi bi-arrow-up"></i></a>
 
+ <div class="container-media">
+ <a href="https://wa.me/15184958083" class="whatsapp" target="_blank"><i class="fab fa-whatsapp whatsapp-icon"></i></a>
+</div>
+
  <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row gx-5">
