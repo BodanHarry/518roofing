@@ -1,5 +1,5 @@
   <?php 
- 
+     //include('translate.php');
   ?>
 
 <div class="container-fluid bg-dark px-5 d-none d-lg-block">

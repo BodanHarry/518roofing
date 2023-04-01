@@ -1,6 +1,5 @@
 <?php 
     $title = "518 Roofing | Home of your Trusted Roofing Service in New York";
-    //include('translate.php');
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -28,7 +27,6 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
-    <link href="css/whatsapp.css" rel="stylesheet">
     <link href="css/addons.css" rel="stylesheet">
 </head>
 
@@ -253,7 +251,7 @@
                         </div>
                         <h4 class="mb-3">Vision</h4>
                         <p class="m-0">Our goal is to be the best roofing service in 518 by offering reliable, cost-effective solutions with excellent service and quality work.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="about.php#mision">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -265,7 +263,7 @@
                         </div>
                         <h4 class="mb-3">Mission</h4>
                         <p class="m-0">Our mission is to provide top-quality roofing services in 518 with fair pricing, great customer service, and exceptional workmanship that builds lasting relationships with our clients.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="about.php#mision">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>

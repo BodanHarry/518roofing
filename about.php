@@ -114,7 +114,7 @@
         </div>
     </div>
     
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container-fluid py-5 wow fadeInUp" id="vision" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5">
             <div class="col-lg-5" style="min-height: 500px;">
@@ -132,7 +132,7 @@
         </div>
     </div>
 
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container-fluid py-5 wow fadeInUp" id="mision" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5">
             <div class="col-lg-5" style="min-height: 500px;">
