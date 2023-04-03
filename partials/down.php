@@ -15,7 +15,7 @@
                     <div class="d-flex flex-column align-items-center justify-content-center text-center h-100 bg-primary p-4">
                         <a href="index.php" class="navbar-brand">
                             <h2 class="m-0 text-white">
-                            <img src="img/svg/roofing.svg" id="title-img">
+                            <img src="img/svg/roofingGreen.svg" id="title-img">
                             </i>518 Roofing</h2>
                         </a>
                         <p class="mt-3 mb-4"> We are the best roofing company in the United States, meet us!</p>
@@ -41,6 +41,14 @@
                                 <i class="bi bi-telephone text-primary me-2"></i>
                                 <p class="mb-0">+1 518 495 8083</p>
                             </div>
+                            <div class="d-flex mb-2">
+                                <i class="fa fa-road text-primary me-2"></i>
+                                <p class="mb-0">150 Milles Abal NY</p>
+                            </div>
+                            <div class="d-flex mb-2">
+                                <i class="fa fa-calendar text-primary me-2"></i>
+                                <p class="mb-0">Monday to Saturday - 8:00am to 6:00pm</p>
+                            </div>
                             <div class="d-flex mt-4">
                                 <a class="btn btn-primary btn-square me-2" href="https://wa.me/15184958083"><i class="fab fa-whatsapp fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square me-2" href="tel:+15184958083"><i class="fas fa-phone"></i></a>
@@ -58,7 +66,22 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
+                            <div class="section-title section-title-sm position-relative pb-3 mb-4">
+                                <h3 class="text-light mb-0">Payment Methods</h3>
+                            </div>
+                            <div class="link-animated d-flex flex-row gap-1 justify-content-start">
+                                <img src="img/payment/pay1.png" style="max-width: 32px;">
+                                <img src="img/payment/pay2.png" style="max-width: 32px;">
+                                <img src="img/payment/pay3.png" style="max-width: 32px;">
+                                <img src="img/payment/pay4.png" style="max-width: 32px;">
+                                <img src="img/payment/pay5.png" style="max-width: 32px;">
+                                <img src="img/payment/pay6.png" style="max-width: 32px;">
+                                <img src="img/payment/pay7.png" style="max-width: 32px;">
+                        </div>  
+                        </div>
                 </div>
+                
             </div>
         </div>
     </div>

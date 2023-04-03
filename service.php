@@ -179,7 +179,6 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
-    <script src="js/addons.js"></script>
 
     <?php
         include 'partials/down.php';

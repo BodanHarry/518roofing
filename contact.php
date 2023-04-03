@@ -104,7 +104,7 @@ $email = isset($_POST["email"]);
                         </div>
                         <div class="ps-4">
                             <h5 class="mb-2">Email to get free quote</h5>
-                            <h4 class="text-primary mb-0">info@example.com</h4>
+                            <h4 class="text-primary mb-0">Info@518bestroofing.com</h4>
                         </div>
                     </div>
                 </div>
@@ -171,8 +171,6 @@ $email = isset($_POST["email"]);
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
-    <script src="js/addons.js"></script>
-
 </body>
 
 </html>

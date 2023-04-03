@@ -94,7 +94,7 @@
         <h2 class="mb-0">Images</h2>
     </div>
  
-  <div class="row">
+  <div class="row fadeInUp">
     <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
       <img src="img/business/img1.jpg" class="img-fluid rounded" onclick="openFullImage(this.src)" alt="">
     </div>
@@ -154,7 +154,7 @@
  
 
     <div class="imgFull" id="fullbox">
-        <img src="main.png" id="fullImg">
+        <img src="img/business/img1.jpg" id="fullImg">
         <span onclick="closeImg()">X</span>
     </div>
 
@@ -170,7 +170,6 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
-    <script src="js/addons.js"></script>
     <script src="js/fullImg.js"></script>
 
     <?php

@@ -207,7 +207,7 @@
                 </div>
                 <div class="col-lg-4  wow zoomIn" data-wow-delay="0.9s" style="min-height: 350px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.1s" src="img/svg/roofingComplete.png" style="object-fit:contain;">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.1s" src="img/svg/roofingCompleteGreen.svg" style="object-fit:contain;">
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -397,7 +397,7 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
-    <script src="js/addons.js"></script>
+    
 
 </body>
 

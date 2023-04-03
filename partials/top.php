@@ -23,8 +23,8 @@
         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0" id="top-panel">
             <a href="index.php" class="navbar-brand p-0">
                 <h1 class="m-0">
-                    <img src="img/svg/roofing.svg" id="title-img">
-                    518 Roofing</h1>
+                    <img src="img/svg/roofingGreen.svg" id="title-img">
+                    518 best Roofing</h1>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="fa fa-bars"></span>
