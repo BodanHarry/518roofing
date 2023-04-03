@@ -29,7 +29,7 @@
                 </div>
                 <div class="col-lg-8 col-md-6">
                     <div class="row gx-5">
-                        <div class="col-lg-4 col-md-12 pt-5 mb-5">
+                        <div style="padding-right: 0px;" class="col-lg-4 col-md-12 pt-5 mb-5">
                             <div class="section-title section-title-sm position-relative pb-3 mb-4">
                                 <h3 class="text-light mb-0">Get In Touch</h3>
                             </div>
@@ -52,9 +52,10 @@
                             <div class="d-flex mt-4">
                                 <a class="btn btn-primary btn-square me-2" href="https://wa.me/15184958083"><i class="fab fa-whatsapp fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square me-2" href="tel:+15184958083"><i class="fas fa-phone"></i></a>
+                                <a class="btn btn-primary btn-square me-2" href="https://www.facebook.com/people/518-Best-Roofing/100091424776587/"><i class="fab fa-facebook"></i></a>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
+                        <div style="padding-right: 0px;" class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
                             <div class="section-title section-title-sm position-relative pb-3 mb-4">
                                 <h3 class="text-light mb-0">Quick Links</h3>
                             </div>
@@ -65,6 +66,7 @@
                                 <a class="text-light" href="contact.php"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
                             </div>
                         </div>
+                        <iframe style="padding-left: 0px; width: 250px; " class="position-relative rounded pt-lg-5" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd" frameborder="0" style="min-height: 350px; border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                     </div>
                     <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
                             <div class="section-title section-title-sm position-relative pb-3 mb-4">
