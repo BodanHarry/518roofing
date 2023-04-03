@@ -89,6 +89,7 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="css/whatsapp.css">
 <div class="container-media">
+   <a href="https://www.facebook.com/profile.php?id=100091424776587" class="facebook" target="_blank"> <i class="fa fa-facebook whatsapp-icon"></i></a>
    <a href="https://wa.me/15184958083" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
 </div>
 

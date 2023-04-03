@@ -115,7 +115,7 @@ $email = isset($_POST["email"]);
                         </div>
                         <div class="ps-4">
                             <h5 class="mb-2">Visit our office</h5>
-                            <h4 class="text-primary mb-0">123 Street, NY, USA</h4>
+                            <h4 class="text-primary mb-0">659 Thurston Rd, Rochester, NY 14619</h4>
                         </div>
                     </div>
                 </div>

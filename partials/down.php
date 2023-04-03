@@ -65,28 +65,29 @@
                                 <a class="text-light mb-2" href="service.php"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
                                 <a class="text-light" href="contact.php"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
                             </div>
-                        </div>
-                        <iframe style="padding-left: 0px; width: 250px; " class="position-relative rounded pt-lg-5" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd" frameborder="0" style="min-height: 350px; border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-                    </div>
-                    <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
                             <div class="section-title section-title-sm position-relative pb-3 mb-4">
-                                <h3 class="text-light mb-0">Payment Methods</h3>
-                            </div>
-                            <div class="link-animated d-flex flex-row gap-1 justify-content-start">
-                                <img src="img/payment/pay1.png" style="max-width: 32px;">
-                                <img src="img/payment/pay2.png" style="max-width: 32px;">
-                                <img src="img/payment/pay3.png" style="max-width: 32px;">
-                                <img src="img/payment/pay4.png" style="max-width: 32px;">
-                                <img src="img/payment/pay5.png" style="max-width: 32px;">
-                                <img src="img/payment/pay6.png" style="max-width: 32px;">
-                                <img src="img/payment/pay7.png" style="max-width: 32px;">
-                        </div>  
+                            <br></br>
+                            <h3 class="text-light mb-0">Payment Methods</h3>
                         </div>
+                        <div class="link-animated d-flex flex-row gap-1 justify-content-start">
+                            <img src="img/payment/pay1.png" style="max-width: 25px;">
+                            <img src="img/payment/pay2.png" style="max-width: 25px;">
+                            <img src="img/payment/pay3.png" style="max-width: 25px;">
+                            <img src="img/payment/pay4.png" style="max-width: 25px;">
+                            <img src="img/payment/pay5.png" style="max-width: 25px;">
+                            <img src="img/payment/pay6.png" style="max-width: 25px;">
+                            <img src="img/payment/pay7.png" style="max-width: 25px;">
+                        </div>  
+                    </div>
+                    <iframe style="padding-left: 0px; width: 255px; height: 425px; " class="position-relative rounded pt-lg-5" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd" frameborder="0" style="min-height: 100px; min-width: 100px; border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 </div>
-                
+                    
             </div>
+                
         </div>
     </div>
+</div>
+
     <div class="container-fluid text-white" style="background: #061429;">
         <div class="container text-center">
             <div class="row justify-content-end">

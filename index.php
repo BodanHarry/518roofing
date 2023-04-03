@@ -217,14 +217,14 @@
                                 <i class="fa fa-users-cog text-white"></i>
                             </div>
                             <h4>Experienced and Skilled Roofing Professionals</h4>
-                            <p class="mb-0">Our team is made up of highly experienced and skilled roofing professionals who have undergone rigorous training and are equipped with the latest tools and technology. With us, you can be confident that your roofing project is in the hands of experts.</p>
+                            <p class="mb-0">Our team is made up of highly experienced and skilled roofing professionals who have undergone rigorous training and are equipped with the latest tools.</p>
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.8s">
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                                 <i class="fa fa-phone-alt text-white"></i>
                             </div>
                             <h4>24/7 Support</h4>
-                            <p class="mb-0"> Our team of experts is available around the clock to provide you with the support and assistance you need, no matter the time of day or night. You can count on us to be there for you whenever you need us, whether it's for emergency repairs, regular maintenance, or any other roofing needs. With our 24/7 support, you can have peace of mind knowing that you have a reliable partner in your roofing service.</p>
+                            <p class="mb-0"> Our team of experts is available around the clock to provide you with the support and assistance you need, no matter the time of day or night.</p>
                         </div>
                     </div>
                 </div>
